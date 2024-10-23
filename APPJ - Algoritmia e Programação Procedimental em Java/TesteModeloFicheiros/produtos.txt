@@ -1,0 +1,2 @@
+PRODUTO1,Porto,150,50,100, Lisboa,75,90,200, Coimbra,70,90,50
+PRODUTO2,Porto,70,80,50, Lisboa,90,80,40,Braga,50,40,110, Coimbra,90,30,40

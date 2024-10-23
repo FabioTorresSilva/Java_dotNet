@@ -1,0 +1,14 @@
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.AssemblyInfoInputs.cache
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.AssemblyInfo.cs
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\bin\Debug\net8.0\exSistemaGestaoCombustivel.exe
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\bin\Debug\net8.0\exSistemaGestaoCombustivel.deps.json
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\bin\Debug\net8.0\exSistemaGestaoCombustivel.runtimeconfig.json
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\bin\Debug\net8.0\exSistemaGestaoCombustivel.dll
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\bin\Debug\net8.0\exSistemaGestaoCombustivel.pdb
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.dll
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\refint\exSistemaGestaoCombustivel.dll
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.pdb
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\exSistemaGestaoCombustivel.genruntimeconfig.cache
+C:\Users\silva\source\repos\exSistemaGestaoCombustivel\exSistemaGestaoCombustivel\obj\Debug\net8.0\ref\exSistemaGestaoCombustivel.dll

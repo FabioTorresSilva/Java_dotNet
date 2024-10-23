@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\specialpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\specialpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\rockpaperscissors\\rockpaperscissors\\gameelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87DD8B-1627-4C52-BD8D-8B2692C9D324}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\gameelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialPaper.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\SpecialPaper.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\SpecialPaper.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\SpecialPaper.cs",
+              "RelativeToolTip": "RockPaperScissors\\SpecialPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:24:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Paper.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Paper.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Paper.cs",
+              "RelativeToolTip": "RockPaperScissors\\Paper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:40:14.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Rock.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Rock.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Rock.cs",
+              "RelativeToolTip": "RockPaperScissors\\Rock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Program.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Program.cs",
+              "RelativeToolTip": "RockPaperScissors\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwGcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:22:45.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scissors.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Scissors.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Scissors.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\Scissors.cs",
+              "RelativeToolTip": "RockPaperScissors\\Scissors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:40:20.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameElement.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\GameElement.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\GameElement.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\RockPaperScissors\\RockPaperScissors\\GameElement.cs",
+              "RelativeToolTip": "RockPaperScissors\\GameElement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:00.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

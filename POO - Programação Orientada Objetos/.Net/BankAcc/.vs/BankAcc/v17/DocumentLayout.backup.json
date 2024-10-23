@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\BankAcc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2EF10-B5F4-42DD-845C-661C207DDB9D}|BankAcc\\BankAcc.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\bankacc\\bankacc\\mainbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2EF10-B5F4-42DD-845C-661C207DDB9D}|BankAcc\\BankAcc.csproj|solutionrelative:bankacc\\mainbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2EF10-B5F4-42DD-845C-661C207DDB9D}|BankAcc\\BankAcc.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\bankacc\\bankacc\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2EF10-B5F4-42DD-845C-661C207DDB9D}|BankAcc\\BankAcc.csproj|solutionrelative:bankacc\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\BankAcc\\BankAcc\\Bank.cs",
+              "RelativeDocumentMoniker": "BankAcc\\Bank.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\BankAcc\\BankAcc\\Bank.cs",
+              "RelativeToolTip": "BankAcc\\Bank.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:56:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainBank.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\BankAcc\\BankAcc\\MainBank.cs",
+              "RelativeDocumentMoniker": "BankAcc\\MainBank.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\BankAcc\\BankAcc\\MainBank.cs",
+              "RelativeToolTip": "BankAcc\\MainBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:55:46.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

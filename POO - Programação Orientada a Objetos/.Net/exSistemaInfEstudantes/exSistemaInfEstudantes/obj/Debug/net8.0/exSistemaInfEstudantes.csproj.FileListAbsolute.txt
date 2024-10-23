@@ -1,0 +1,14 @@
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\bin\Debug\net8.0\exSistemaInfEstudantes.exe
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\bin\Debug\net8.0\exSistemaInfEstudantes.deps.json
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\bin\Debug\net8.0\exSistemaInfEstudantes.runtimeconfig.json
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\bin\Debug\net8.0\exSistemaInfEstudantes.dll
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\bin\Debug\net8.0\exSistemaInfEstudantes.pdb
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.AssemblyInfoInputs.cache
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.AssemblyInfo.cs
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.csproj.CoreCompileInputs.cache
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.dll
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\refint\exSistemaInfEstudantes.dll
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.pdb
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\exSistemaInfEstudantes.genruntimeconfig.cache
+C:\Users\silva\source\repos\exSistemaInfEstudantes\exSistemaInfEstudantes\obj\Debug\net8.0\ref\exSistemaInfEstudantes.dll

@@ -1,0 +1,14 @@
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\bin\Debug\net7.0\ProductsCSharp.exe
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\bin\Debug\net7.0\ProductsCSharp.deps.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\bin\Debug\net7.0\ProductsCSharp.runtimeconfig.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\bin\Debug\net7.0\ProductsCSharp.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\bin\Debug\net7.0\ProductsCSharp.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\refint\ProductsCSharp.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ProductsCSharp.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\POO - Programação Orientada a Objetos\.Net\1-Java_vs_CSharp\ProductsCSharp\ProductsCSharp\obj\Debug\net7.0\ref\ProductsCSharp.dll

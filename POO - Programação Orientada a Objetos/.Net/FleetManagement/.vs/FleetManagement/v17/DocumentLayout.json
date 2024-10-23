@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\fleetmanagement\\fleetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\fleetmanagement\\fleetmanagement\\mota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\mota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\fleetmanagement\\fleetmanagement\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\fleetmanagement\\fleetmanagement\\fleetmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\fleetmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\fleetmanagement\\fleetmanagement\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D403B-968E-4FB2-B4B7-3C8DD11D8514}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FleetManagement.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\FleetManagement.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\FleetManagement.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\FleetManagement.cs",
+              "RelativeToolTip": "FleetManagement\\FleetManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:25:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Program.cs",
+              "RelativeToolTip": "FleetManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:23:10.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mota.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Mota.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Mota.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Mota.cs",
+              "RelativeToolTip": "FleetManagement\\Mota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:23:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Carro.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Carro.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Carro.cs",
+              "RelativeToolTip": "FleetManagement\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:55:27.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Veiculo.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\FleetManagement\\FleetManagement\\Veiculo.cs",
+              "RelativeToolTip": "FleetManagement\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:58:25.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
