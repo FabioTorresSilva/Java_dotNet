@@ -1,0 +1,14 @@
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\bin\Debug\net7.0\FleetManagement.exe
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\bin\Debug\net7.0\FleetManagement.deps.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\bin\Debug\net7.0\FleetManagement.runtimeconfig.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\bin\Debug\net7.0\FleetManagement.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\bin\Debug\net7.0\FleetManagement.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\refint\FleetManagement.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\FleetManagement.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\FleetManagement\FleetManagement\obj\Debug\net7.0\ref\FleetManagement.dll

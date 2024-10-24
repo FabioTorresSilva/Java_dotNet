@@ -49,18 +49,17 @@ public class Retangulo extends Figura {
 
     @Override
     public String toString() {
-        return String.format("Retângulo: comprimento=%.1f largura=%.1f %s",
-                comprimento, largura, super.toString());
+        return String.format("Retângulo: comprimento=%.1f largura=%.1f %s", comprimento, largura, super.toString());
     }
 
-//    @Override
-//    public boolean equals(Object outroObjeto) {
-//        if (!super.equals(outroObjeto)) {
-//            return false;
-//        }
-//        Retangulo r = (Retangulo) outroObjeto;
-//        return this.comprimento == r.getComprimento() && this.largura == r.getLargura();
-//    }
+    @Override
+    public boolean equals(Object outroObjeto) {
+        if (!super.equals(outroObjeto)) {
+            return false;
+        }
+        Retangulo r = (Retangulo) outroObjeto;
+        return this.comprimento == r.getComprimento() && this.largura == r.getLargura();
+    }
 
     @Override
     public double calcularArea() {

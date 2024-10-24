@@ -1,6 +1,7 @@
 package org.upskill.figuras_arraylist;
 
 public class Circulo extends Figura {
+
     private double raio;
     private static final int RAIO_POR_OMISSAO = 1;
     

@@ -29,9 +29,8 @@ public class MainFiguras {
         listarFor(figuras);
         System.out.println("\n### Figuras Armazenadas no ArrayList (foreach) ###");
         listarForEach(figuras);
-
-
     }
+
     private static void listarFor(List<Figura> lista) {
         for (int i = 0; i < lista.size(); i++) {
             System.out.printf("%s Área: %.1f %n", lista.get(i), lista.get(i).calcularArea());

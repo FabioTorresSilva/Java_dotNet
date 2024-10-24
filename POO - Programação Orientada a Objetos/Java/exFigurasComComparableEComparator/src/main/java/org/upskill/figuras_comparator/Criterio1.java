@@ -15,5 +15,4 @@ public  class Criterio1  implements Comparator {
             return 0;
         }
     }
-
 }
