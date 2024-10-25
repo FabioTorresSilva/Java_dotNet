@@ -40,13 +40,7 @@ public class MainFiguras {
                 double area1 = f1.calcularArea();
                 double area2 = f2.calcularArea();
 
-                if (area1 < area2) {
-                    return -1;
-                } else if (area1 > area2) {
-                    return 1;
-                } else {
-                    return 0;
-                }
+                return Double.compare(area1, area2);
             }
         };
 
