@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\accountstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:accountstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\babyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:babyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\interfaces\\iprinttopaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:interfaces\\iprinttopaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\interfaces\\icustomeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:interfaces\\icustomeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\interfaces\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:interfaces\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\interfaces\\ibabyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:interfaces\\ibabyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13530D28-BDD4-43A5-9BEB-C2CEC73F2C98}|demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrintToPaper.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IPrintToPaper.cs",
+              "RelativeDocumentMoniker": "interfaces\\IPrintToPaper.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IPrintToPaper.cs",
+              "RelativeToolTip": "interfaces\\IPrintToPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:59:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:25:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountState.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\AccountState.cs",
+              "RelativeDocumentMoniker": "AccountState.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\AccountState.cs",
+              "RelativeToolTip": "AccountState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:25:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BabyAccount.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\BabyAccount.cs",
+              "RelativeDocumentMoniker": "BabyAccount.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\BabyAccount.cs",
+              "RelativeToolTip": "BabyAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:31:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerAccount.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\ICustomerAccount.cs",
+              "RelativeDocumentMoniker": "interfaces\\ICustomerAccount.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\ICustomerAccount.cs",
+              "RelativeToolTip": "interfaces\\ICustomerAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:47:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IBank.cs",
+              "RelativeDocumentMoniker": "interfaces\\IBank.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IBank.cs",
+              "RelativeToolTip": "interfaces\\IBank.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:30:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBabyAccount.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IBabyAccount.cs",
+              "RelativeDocumentMoniker": "interfaces\\IBabyAccount.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IBabyAccount.cs",
+              "RelativeToolTip": "interfaces\\IBabyAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:29:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "interfaces\\IAccount.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\interfaces\\IAccount.cs",
+              "RelativeToolTip": "interfaces\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:29:42.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:07:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerAccount.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\CustomerAccount.cs",
+              "RelativeDocumentMoniker": "CustomerAccount.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\CustomerAccount.cs",
+              "RelativeToolTip": "CustomerAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:38:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:24:46.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

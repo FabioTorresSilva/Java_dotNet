@@ -1,0 +1,15 @@
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\bin\Debug\net8.0\exEncomendas.exe
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\bin\Debug\net8.0\exEncomendas.deps.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\bin\Debug\net8.0\exEncomendas.runtimeconfig.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\bin\Debug\net8.0\exEncomendas.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\bin\Debug\net8.0\exEncomendas.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.sourcelink.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\refint\exEncomendas.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\exEncomendas.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exEncomendas\exEncomendas\obj\Debug\net8.0\ref\exEncomendas.dll

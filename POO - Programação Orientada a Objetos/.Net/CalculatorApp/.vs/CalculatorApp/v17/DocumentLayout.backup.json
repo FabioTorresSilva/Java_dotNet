@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E06A113-EB44-45D9-BA38-0F9EE9B91B39}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\calculatorapp\\calculatorapp\\calculatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E06A113-EB44-45D9-BA38-0F9EE9B91B39}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ED1E33-5E8D-4317-BCFC-050DDCE344C9}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\calculatorapp\\calculatorapp.tests\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ED1E33-5E8D-4317-BCFC-050DDCE344C9}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E06A113-EB44-45D9-BA38-0F9EE9B91B39}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E06A113-EB44-45D9-BA38-0F9EE9B91B39}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTest.cs",
+              "RelativeToolTip": "CalculatorApp.Tests\\CalculatorTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:27:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorApp.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp\\CalculatorApp.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp\\CalculatorApp.cs",
+              "RelativeToolTip": "CalculatorApp\\CalculatorApp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:22:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:22:21.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

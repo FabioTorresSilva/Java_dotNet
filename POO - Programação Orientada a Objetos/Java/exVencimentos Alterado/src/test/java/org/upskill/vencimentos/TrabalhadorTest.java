@@ -17,7 +17,7 @@ public class TrabalhadorTest {
     @org.junit.Test
     public void testCalcularVencimentoComissao() {
         System.out.println("calcular Vencimento trabalhador Comissao");
-        TrabalhadorComissao instance = new TrabalhadorComissao("Susana Ferreira", 500.0f, 1500.0f, 6f, 321);
+        TrabalhadorComissao instance = new TrabalhadorComissao("Susana Ferreira", 500.0f, 1500.0f, 6f);
         //(vendas > 10000) ? salarioBase + premio + vendas * (comissao / 100) : salarioBase + vendas * (comissao / 100);
         float expResult = (instance.getVendas() > 10000) ? instance.getSalarioBase() + instance.getPremio() + instance.getVendas() * (instance.getComissao() / 100) : instance.getSalarioBase() + instance.getVendas() * (instance.getComissao() / 100);
         float result = instance.calcularVencimento();

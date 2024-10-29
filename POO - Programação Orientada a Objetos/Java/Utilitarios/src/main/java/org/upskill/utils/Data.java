@@ -1,9 +1,9 @@
-
+package org.upskill.utils;
 
 import java.util.Calendar;
 
 /**
- * Representa uma data através do dia, mês e ano.
+ * Representa uma data atravï¿½s do dia, mï¿½s e ano.
  *
  * @author ISEP-DEI-PPROG
  */
@@ -15,7 +15,7 @@ public class Data implements Comparable<Data> {
     private int ano;
 
     /**
-     * O mês da data.
+     * O mï¿½s da data.
      */
     private int mes;
 
@@ -25,17 +25,17 @@ public class Data implements Comparable<Data> {
     private int dia;
 
     /**
-     * O ano por omissão.
+     * O ano por omissï¿½o.
      */
     private static final int ANO_POR_OMISSAO = 1;
 
     /**
-     * O mês por omissão.
+     * O mï¿½s por omissï¿½o.
      */
     private static final int MES_POR_OMISSAO = 1;
 
     /**
-     * O dia por omissão.
+     * O dia por omissï¿½o.
      */
     private static final int DIA_POR_OMISSAO = 1;
 
@@ -43,10 +43,10 @@ public class Data implements Comparable<Data> {
      * Nomes dos dias da semana.
      */
     private static String[] nomeDiaDaSemana = {"Domingo", "Segunda-feira",
-            "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"};
+            "Terï¿½a-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sï¿½bado"};
 
     /**
-     * Número de dias de cada mês do ano.
+     * Nï¿½mero de dias de cada mï¿½s do ano.
      */
     private static int[] diasPorMes = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30,
             31, 30, 31};
@@ -54,15 +54,15 @@ public class Data implements Comparable<Data> {
     /**
      * Nomes dos meses do ano.
      */
-    private static String[] nomeMes = {"Inválido", "Janeiro", "Fevereiro",
-            "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
+    private static String[] nomeMes = {"Invï¿½lido", "Janeiro", "Fevereiro",
+            "Marï¿½o", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
             "Outubro", "Novembro", "Dezembro"};
 
     /**
-     * Constroi uma instância de Data recebendo o ano, o mês e o dia.
+     * Constroi uma instï¿½ncia de Data recebendo o ano, o mï¿½s e o dia.
      *
      * @param ano o ano da data.
-     * @param mes o mês da data.
+     * @param mes o mï¿½s da data.
      * @param dia o dia da data.
      */
     public Data(int ano, int mes, int dia) {
@@ -72,7 +72,7 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Constroi uma instância de Data com a data por omissão.
+     * Constroi uma instï¿½ncia de Data com a data por omissï¿½o.
      */
     public Data() {
         ano = ANO_POR_OMISSAO;
@@ -81,10 +81,10 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Constroi uma instância de Data com as mesmas características da data
-     * recebida por parâmetro.
+     * Constroi uma instï¿½ncia de Data com as mesmas caracterï¿½sticas da data
+     * recebida por parï¿½metro.
      *
-     * @param outraData a data com as características a copiar.
+     * @param outraData a data com as caracterï¿½sticas a copiar.
      */
     public Data(Data outraData) {
         ano = outraData.ano;
@@ -102,9 +102,9 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Devolve o mês da data.
+     * Devolve o mï¿½s da data.
      *
-     * @return mês da data.
+     * @return mï¿½s da data.
      */
     public int getMes() {
         return mes;
@@ -120,10 +120,10 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Modifica o ano, o mês e o dia da data.
+     * Modifica o ano, o mï¿½s e o dia da data.
      *
      * @param ano o novo ano da data.
-     * @param mes o novo mês da data.
+     * @param mes o novo mï¿½s da data.
      * @param dia o novo dia da data.
      */
     public void setData(int ano, int mes, int dia) {
@@ -133,10 +133,10 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Devolve a descrição textual da data no formato: diaDaSemana, dia de mês
+     * Devolve a descriï¿½ï¿½o textual da data no formato: diaDaSemana, dia de mï¿½s
      * de ano.
      *
-     * @return características da data.
+     * @return caracterï¿½sticas da data.
      */
     @Override
     public String toString() {
@@ -147,7 +147,7 @@ public class Data implements Comparable<Data> {
     /**
      * Devolve a data no formato:%04d/%02d/%02d.
      *
-     * @return características da data.
+     * @return caracterï¿½sticas da data.
      */
     public String toAnoMesDiaString() {
         return String.format("%04d/%02d/%02d", ano, mes, dia);
@@ -157,8 +157,8 @@ public class Data implements Comparable<Data> {
      * Compara a data com o objeto recebido.
      *
      * @param outroObjeto o objeto a comparar com a data.
-     * @return true se o objeto recebido representar uma data equivalente à
-     *         data. Caso contrário, retorna false.
+     * @return true se o objeto recebido representar uma data equivalente ï¿½
+     *         data. Caso contrï¿½rio, retorna false.
      */
     @Override
     public boolean equals(Object outroObjeto) {
@@ -174,12 +174,12 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Compara a data com a outra data recebida por parâmetro.
+     * Compara a data com a outra data recebida por parï¿½metro.
      *
      * @param outraData a data a ser comparada.
-     * @return o valor 0 se a outraData recebida é igual à data; o valor -1 se
-     *         a outraData for posterior à data; o valor 1 se a outraData for
-     *         anterior à data.
+     * @return o valor 0 se a outraData recebida ï¿½ igual ï¿½ data; o valor -1 se
+     *         a outraData for posterior ï¿½ data; o valor 1 se a outraData for
+     *         anterior ï¿½ data.
      */
     @Override
     public int compareTo(Data outraData) {
@@ -200,12 +200,12 @@ public class Data implements Comparable<Data> {
 
 
     /**
-     * Devolve true se a data for maior do que a data recebida por parâmetro. Se
-     * a data for menor ou igual à data recebida por parâmetro, devolve false.
+     * Devolve true se a data for maior do que a data recebida por parï¿½metro. Se
+     * a data for menor ou igual ï¿½ data recebida por parï¿½metro, devolve false.
      *
      * @param outraData a outra data com a qual se compara a data.
-     * @return true se a data for maior do que a data recebida por parâmetro,
-     *         caso contrário devolve false.
+     * @return true se a data for maior do que a data recebida por parï¿½metro,
+     *         caso contrï¿½rio devolve false.
      */
     public boolean isMaior(Data outraData) {
         int totalDias = contaDias();
@@ -215,13 +215,13 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Devolve a diferença em número de dias entre a data e a data recebida por
-     * parâmetro.
+     * Devolve a diferenï¿½a em nï¿½mero de dias entre a data e a data recebida por
+     * parï¿½metro.
      *
      * @param outraData a outra data com a qual se compara a data para calcular
-     *                  a diferença do número de dias.
-     * @return diferença em número de dias entre a data e a data recebida por
-     *         parâmetro.
+     *                  a diferenï¿½a do nï¿½mero de dias.
+     * @return diferenï¿½a em nï¿½mero de dias entre a data e a data recebida por
+     *         parï¿½metro.
      */
     public int diferenca(Data outraData) {
         int totalDias = contaDias();
@@ -231,17 +231,17 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Devolve a diferença em número de dias entre a data e a data recebida por
-     * parâmetro com ano, mês e dia.
+     * Devolve a diferenï¿½a em nï¿½mero de dias entre a data e a data recebida por
+     * parï¿½metro com ano, mï¿½s e dia.
      *
      * @param ano o ano da data com a qual se compara a data para calcular a
-     *            diferença do número de dias.
-     * @param mes o mês da data com a qual se compara a data para calcular a
-     *            diferença do número de dias.
+     *            diferenï¿½a do nï¿½mero de dias.
+     * @param mes o mï¿½s da data com a qual se compara a data para calcular a
+     *            diferenï¿½a do nï¿½mero de dias.
      * @param dia o dia da data com a qual se compara a data para calcular a
-     *            diferença do número de dias.
-     * @return diferença em número de dias entre a data e a data recebida por
-     *         parâmetro com ano, mês e dia.
+     *            diferenï¿½a do nï¿½mero de dias.
+     * @return diferenï¿½a em nï¿½mero de dias entre a data e a data recebida por
+     *         parï¿½metro com ano, mï¿½s e dia.
      */
     public int diferenca(int ano, int mes, int dia) {
         int totalDias = contaDias();
@@ -252,11 +252,11 @@ public class Data implements Comparable<Data> {
     }
 
     /**
-     * Devolve true se o ano passado por parâmetro for bissexto. Se o ano
-     * passado por parâmetro não for bissexto, devolve false.
+     * Devolve true se o ano passado por parï¿½metro for bissexto. Se o ano
+     * passado por parï¿½metro nï¿½o for bissexto, devolve false.
      *
      * @param ano o ano a validar.
-     * @return true se o ano passado por parâmetro for bissexto, caso contrário
+     * @return true se o ano passado por parï¿½metro for bissexto, caso contrï¿½rio
      *         devolve false.
      */
     public static boolean isAnoBissexto(int ano) {
@@ -271,15 +271,15 @@ public class Data implements Comparable<Data> {
     public static Data dataAtual() {
         Calendar hoje = Calendar.getInstance();
         int ano = hoje.get(Calendar.YEAR);
-        int mes = hoje.get(Calendar.MONTH) + 1;    // janeiro é representado por 0
+        int mes = hoje.get(Calendar.MONTH) + 1;    // janeiro ï¿½ representado por 0
         int dia = hoje.get(Calendar.DAY_OF_MONTH);
         return new Data(ano, mes, dia);
     }
 
     /**
-     * Devolve o número de dias desde o dia 1/1/1 até à data.
+     * Devolve o nï¿½mero de dias desde o dia 1/1/1 atï¿½ ï¿½ data.
      *
-     * @return número de dias desde o dia 1/1/1 até à data.
+     * @return nï¿½mero de dias desde o dia 1/1/1 atï¿½ ï¿½ data.
      */
     private int contaDias() {
         int totalDias = 0;

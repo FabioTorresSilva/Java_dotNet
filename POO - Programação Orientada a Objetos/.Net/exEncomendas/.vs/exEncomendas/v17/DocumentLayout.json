@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\exencomendas\\exencomendas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|solutionrelative:exencomendas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\exencomendas\\exencomendas\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|solutionrelative:exencomendas\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\exencomendas\\exencomendas\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29661181-F192-4DDE-951F-2D7A5CD89537}|exEncomendas\\exEncomendas.csproj|solutionrelative:exencomendas\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F348EA-7F2C-434B-9F13-90F0F47A4D4B}|TestEncomendas\\TestEncomendas.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\exencomendas\\testencomendas\\testencomendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F348EA-7F2C-434B-9F13-90F0F47A4D4B}|TestEncomendas\\TestEncomendas.csproj|solutionrelative:testencomendas\\testencomendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestEncomendas.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\TestEncomendas\\TestEncomendas.cs",
+              "RelativeDocumentMoniker": "TestEncomendas\\TestEncomendas.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\TestEncomendas\\TestEncomendas.cs",
+              "RelativeToolTip": "TestEncomendas\\TestEncomendas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:00:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encomenda.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Encomenda.cs",
+              "RelativeDocumentMoniker": "exEncomendas\\Encomenda.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Encomenda.cs",
+              "RelativeToolTip": "exEncomendas\\Encomenda.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:55:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Produto.cs",
+              "RelativeDocumentMoniker": "exEncomendas\\Produto.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Produto.cs",
+              "RelativeToolTip": "exEncomendas\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:50:13.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Cliente.cs",
+              "RelativeDocumentMoniker": "exEncomendas\\Cliente.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\exEncomendas\\exEncomendas\\Cliente.cs",
+              "RelativeToolTip": "exEncomendas\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:45:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

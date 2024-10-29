@@ -28,7 +28,7 @@ public class Empresa {
         if (!trabalhadores.contains(trabalhador)) {
             trabalhadores.add(trabalhador);
         } else {
-            System.out.println("O trabalhador já está cadastrado na empresa.");
+            System.out.println("O trabalhador já está na empresa.");
         }
     }
 

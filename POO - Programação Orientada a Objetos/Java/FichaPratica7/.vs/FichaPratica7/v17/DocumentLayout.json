@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\gestorestabelecimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\gestorestabelecimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\iestabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iestabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\icafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\icafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\hipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\hipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\ihipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\ihipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\isupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\isupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\iservicocafetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicocafetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\iservicoloteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicoloteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\bruno\\downloads\\upskill-main (1)\\upskill-main\\2024\\semana_3\\1\\fichapratica7\\fichapratica7\\interfaces\\iservicobombagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicobombagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorEstabelecimentos.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\GestorEstabelecimentos.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\GestorEstabelecimentos.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\GestorEstabelecimentos.cs",
+              "RelativeToolTip": "FichaPratica7\\GestorEstabelecimentos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:39:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Cafe.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Cafe.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Cafe.cs",
+              "RelativeToolTip": "FichaPratica7\\Cafe.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:59:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HiperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\HiperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\HiperMercado.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\HiperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\HiperMercado.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:48:21.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\SuperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\SuperMercado.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\SuperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\SuperMercado.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:00:57.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICafe.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\ICafe.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\ICafe.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\ICafe.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\ICafe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:53:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicoCafetaria.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServicoBombaGasolina.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHiperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estabelecimento.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Estabelecimento.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Estabelecimento.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Estabelecimento.cs",
+              "RelativeToolTip": "FichaPratica7\\Estabelecimento.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADgvzsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:43:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEstabelecimento.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:43:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServicoLoteria.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:52:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISuperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:52:39.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Program.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Downloads\\Upskill-main (1)\\Upskill-main\\2024\\semana_3\\1\\FichaPratica7\\FichaPratica7\\Program.cs",
+              "RelativeToolTip": "FichaPratica7\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:42:10.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

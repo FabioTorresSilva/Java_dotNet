@@ -36,7 +36,7 @@ public abstract class Trabalhador {
             return false;
         }
         Trabalhador outraFigura = (Trabalhador) outroObjeto;
-        return this.nome.equals((((Trabalhador) outroObjeto).nome));
+        return this.nome.equalsIgnoreCase(outraFigura.nome);
     }
 
     public abstract float calcularVencimento();

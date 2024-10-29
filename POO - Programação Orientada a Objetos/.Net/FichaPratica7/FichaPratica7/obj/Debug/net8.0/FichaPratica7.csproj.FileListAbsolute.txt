@@ -1,0 +1,14 @@
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.AssemblyInfo.cs
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\bin\Debug\net8.0\FichaPratica7.exe
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\bin\Debug\net8.0\FichaPratica7.deps.json
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\bin\Debug\net8.0\FichaPratica7.runtimeconfig.json
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\bin\Debug\net8.0\FichaPratica7.dll
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\bin\Debug\net8.0\FichaPratica7.pdb
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.dll
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\refint\FichaPratica7.dll
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.pdb
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\FichaPratica7.genruntimeconfig.cache
+C:\Users\bruno\Downloads\Upskill-main (1)\Upskill-main\2024\semana_3\1\FichaPratica7\FichaPratica7\obj\Debug\net8.0\ref\FichaPratica7.dll
