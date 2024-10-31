@@ -1,0 +1,15 @@
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.sourcelink.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\bin\Debug\net8.0\exMobiliario.exe
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\bin\Debug\net8.0\exMobiliario.deps.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\bin\Debug\net8.0\exMobiliario.runtimeconfig.json
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\bin\Debug\net8.0\exMobiliario.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\bin\Debug\net8.0\exMobiliario.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\refint\exMobiliario.dll
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.pdb
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\exMobiliario.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Ambiente de Trabalho\UPSKILL\Java_dotNet\POO - Programação Orientada a Objetos\.Net\exMobiliario\exMobiliario\obj\Debug\net8.0\ref\exMobiliario.dll

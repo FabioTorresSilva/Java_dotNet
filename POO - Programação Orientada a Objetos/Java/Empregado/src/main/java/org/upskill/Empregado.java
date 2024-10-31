@@ -1,41 +1,22 @@
 package org.upskill;
+
 import org.upskill.utils.Data;
 import org.upskill.utils.Tempo;
-
-//Pretende-se uma classe de nome Empregado que satisfaça os seguintes requisitos:
-//• Possua os atributos: primeiroNome, ultimoNome, dataContrato, horaEntrada e horaSaida. O
-//atributo dataContrato deve ser um objeto da classe Data fornecida. Os atributos horaEntrada
-//e horaSaida devem ser objetos da classe Tempo também disponibilizada;
-// private int ano;
-//    private int mes;
-//    private int dia;
-//    private static final int ANO_POR_OMISSAO = 1;
-//    private static final int MES_POR_OMISSAO = 1;
-//    private static final int DIA_POR_OMISSAO = 1;
-//    private static String[] nomeDiaDaSemana = new String[]{"Domingo", "Segunda-feira", "Ter�a-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "S�bado"};
-//    private static int[] diasPorMes = new int[]{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-//    private static String[] nomeMes = new String[]{"Inv�lido", "Janeiro", "Fevereiro", "Mar�o", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
-//
-//    public Data(int ano, int mes, int dia) {
-//        this.ano = ano;
-//        this.mes = mes;
-//        this.dia = dia;
-//    }
 
 public class Empregado {
     private String primeiroNome;
     private String ultimoNome;
-    private Data dataContrato;
-    private Tempo horaEntrada;
-    private Tempo horaSaida;
+    private final Data dataContrato;
+    private final Tempo horaEntrada;
+    private final Tempo horaSaida;
 
-    private static final String PRIMEIRO_NOME_POR_OMISSAO="";
-    private static final String ULTIMO_NOME_POR_OMISSAO="";
+    private static final String PRIMEIRO_NOME_POR_OMISSAO = "";
+    private static final String ULTIMO_NOME_POR_OMISSAO = "";
     private static final Data DATA_POR_OMISSAO = new Data();
     private static final Tempo HORA_ENTRADA_POR_OMISSAO = new Tempo();
-    private static final Tempo HORA_SAIDA_POR_OMISSAO= new Tempo();
+    private static final Tempo HORA_SAIDA_POR_OMISSAO = new Tempo();
 
-    public Empregado(){
+    public Empregado() {
         this.primeiroNome = PRIMEIRO_NOME_POR_OMISSAO;
         this.ultimoNome = ULTIMO_NOME_POR_OMISSAO;
         this.dataContrato = DATA_POR_OMISSAO;
@@ -43,20 +24,21 @@ public class Empregado {
         this.horaSaida = HORA_SAIDA_POR_OMISSAO;
     }
 
-    public Empregado (String primeiroNome, String ultimoNome, Data dataContrato, Tempo horaEntrada, Tempo horaSaida ){
-        this.primeiroNome = primeiroNome;
-        this.ultimoNome = ultimoNome;
-        this.dataContrato = dataContrato;
-        this.horaEntrada = horaEntrada;
-        this.horaSaida = horaSaida;
-    }
-
-    public Empregado (Empregado outroEmpregado){
+    public Empregado(Empregado outroEmpregado) {
         this.primeiroNome = outroEmpregado.primeiroNome;
         this.ultimoNome = outroEmpregado.ultimoNome;
         this.dataContrato = outroEmpregado.dataContrato;
         this.horaEntrada = outroEmpregado.horaEntrada;
         this.horaSaida = outroEmpregado.horaSaida;
+    }
+
+    public Empregado(String primeiroNome, String ultimoNome, Data dataContrato,
+                     Tempo horaEntrada, Tempo horaSaida) {
+        this.primeiroNome = primeiroNome;
+        this.ultimoNome = ultimoNome;
+        this.dataContrato = new Data(dataContrato);
+        this.horaEntrada = new Tempo(horaEntrada);
+        this.horaSaida = new Tempo(horaSaida);
     }
 
     public String getPrimeiroNome() {
@@ -76,26 +58,81 @@ public class Empregado {
     }
 
     public Tempo getHoraEntrada() {
-        return horaEntrada;
+        return new Tempo(horaEntrada);
     }
 
     public void setHoraEntrada(Tempo horaEntrada) {
-        this.horaEntrada = horaEntrada;
+        this.horaEntrada.setTempo(horaEntrada.getHoras(), horaEntrada.getMinutos(),
+                horaEntrada.getSegundos());
     }
 
     public Data getDataContrato() {
-        return dataContrato;
+        return new Data(dataContrato);
     }
 
     public void setDataContrato(Data dataContrato) {
-        this.dataContrato = dataContrato;
+        this.dataContrato.setData(dataContrato.getAno(), dataContrato.getMes(),
+                dataContrato.getDia());
+    }
+
+    public void setDataContrato(int ano, int mes, int dia) {
+        dataContrato.setData(ano, mes, dia);
     }
 
     public Tempo getHoraSaida() {
-        return horaSaida;
+        return new Tempo(horaSaida);
     }
 
     public void setHoraSaida(Tempo horaSaida) {
-        this.horaSaida = horaSaida;
+        this.horaSaida.setTempo(horaSaida.getHoras(), horaSaida.getMinutos(),
+                horaSaida.getSegundos());
+    }
+
+    @Override
+    public boolean equals(Object outroObjeto) {
+        if (this == outroObjeto) {
+            return true;
+        }
+        if (outroObjeto == null || getClass() != outroObjeto.getClass()) {
+            return false;
+        }
+        Empregado outroEmpregado = (Empregado) outroObjeto;
+        return primeiroNome.equalsIgnoreCase(outroEmpregado.primeiroNome)
+                && ultimoNome.equalsIgnoreCase(outroEmpregado.ultimoNome)
+                && dataContrato.equals(outroEmpregado.dataContrato)
+                && horaEntrada.equals(outroEmpregado.horaEntrada)
+                && horaSaida.equals(outroEmpregado.horaSaida);
+    }
+
+    public double calcularHorasTrabalhoSemanal() {
+        int minutosEntrada = horaEntrada.getHoras() * 60 + horaEntrada.getMinutos();
+        int minutosSaida = horaSaida.getHoras() * 60 + horaSaida.getMinutos();
+        double horasTrabalhoDiario = (minutosSaida - minutosEntrada) / 60.0;
+        return horasTrabalhoDiario * 5;
+    }
+
+    public String tempoContratado() {
+        Data dataAtual = Data.dataAtual();
+
+        int anos = dataAtual.getAno() - dataContrato.getAno();
+        int meses = dataAtual.getMes() - dataContrato.getMes();
+        int dias = dataAtual.getDia() - dataContrato.getDia();
+
+        if (dias < 0) {
+            meses--;
+            dias += 30;
+        }
+        if (meses < 0) {
+            anos--;
+            meses += 12;
+        }
+
+        return String.format("%d anos, %d meses e %d dias", anos, meses, dias);
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s, Contratado em: %s, Hora de Entrada: %s, Hora de Saída: %s",
+                primeiroNome, ultimoNome, dataContrato.toAnoMesDiaString(), horaEntrada.toStringHHMMSS(), horaSaida.toStringHHMMSS());
     }
 }

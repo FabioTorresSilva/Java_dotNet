@@ -1,0 +1,8 @@
+#surefire
+#Sat Apr 07 22:59:07 BST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=E\:\\ISEP DEI\\Cadeiras\\PPROG Inf\\PPROG 2017-2018\\Aulas PL\\PL12\\PL12-Exposicao
+file.encoding=UTF-8
+localRepository=C\:\\Users\\maril\\.m2\\repository
+basedir=E\:\\ISEP DEI\\Cadeiras\\PPROG Inf\\PPROG 2017-2018\\Aulas PL\\PL12\\PL12-Exposicao
+test=exposicao.ExposicaoTest
