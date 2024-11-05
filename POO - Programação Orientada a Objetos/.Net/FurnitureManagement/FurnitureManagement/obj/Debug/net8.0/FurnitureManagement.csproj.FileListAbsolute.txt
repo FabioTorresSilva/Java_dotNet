@@ -1,0 +1,15 @@
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/bin/Debug/net8.0/FurnitureManagement
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/bin/Debug/net8.0/FurnitureManagement.deps.json
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/bin/Debug/net8.0/FurnitureManagement.runtimeconfig.json
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/bin/Debug/net8.0/FurnitureManagement.dll
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/bin/Debug/net8.0/FurnitureManagement.pdb
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.AssemblyInfoInputs.cache
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.AssemblyInfo.cs
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.csproj.CoreCompileInputs.cache
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.sourcelink.json
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.dll
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/refint/FurnitureManagement.dll
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.pdb
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/FurnitureManagement.genruntimeconfig.cache
+/Users/rjs/Documents/GitHub/Upskill/2024/semana_3/3/FurnitureManagement/FurnitureManagement/obj/Debug/net8.0/ref/FurnitureManagement.dll

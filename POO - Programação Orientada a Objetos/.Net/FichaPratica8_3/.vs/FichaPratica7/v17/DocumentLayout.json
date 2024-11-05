@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\estabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7.test\\hipermercadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|solutionrelative:fichapratica7.test\\hipermercadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7.test\\supermercadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|solutionrelative:fichapratica7.test\\supermercadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7.test\\estabelecimentotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|solutionrelative:fichapratica7.test\\estabelecimentotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7.test\\cafetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E21F136-7268-4D88-8A13-D7CC4A7083D6}|FichaPratica7.Test\\FichaPratica7.Test.csproj|solutionrelative:fichapratica7.test\\cafetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\gestorestabelecimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\gestorestabelecimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\hipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\hipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\isupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\isupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\iservicoloteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicoloteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\iservicocafetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicocafetaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\iservicobombagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iservicobombagasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\ihipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\ihipermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\iestabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\iestabelecimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\fichapratica8_3\\fichapratica7\\interfaces\\icafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85904837-E0A3-435F-B9D7-D641D96A5B89}|FichaPratica7\\FichaPratica7.csproj|solutionrelative:fichapratica7\\interfaces\\icafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CafeTests.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\CafeTests.cs",
+              "RelativeDocumentMoniker": "FichaPratica7.Test\\CafeTests.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\CafeTests.cs",
+              "RelativeToolTip": "FichaPratica7.Test\\CafeTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:01:30Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estabelecimento.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Estabelecimento.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Estabelecimento.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Estabelecimento.cs",
+              "RelativeToolTip": "FichaPratica7\\Estabelecimento.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv08AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:43:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestorEstabelecimentos.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\GestorEstabelecimentos.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\GestorEstabelecimentos.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\GestorEstabelecimentos.cs",
+              "RelativeToolTip": "FichaPratica7\\GestorEstabelecimentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:39:29.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiperMercadoTests.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\HiperMercadoTests.cs",
+              "RelativeDocumentMoniker": "FichaPratica7.Test\\HiperMercadoTests.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\HiperMercadoTests.cs",
+              "RelativeToolTip": "FichaPratica7.Test\\HiperMercadoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:03:34.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstabelecimentoTests.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\EstabelecimentoTests.cs",
+              "RelativeDocumentMoniker": "FichaPratica7.Test\\EstabelecimentoTests.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\EstabelecimentoTests.cs",
+              "RelativeToolTip": "FichaPratica7.Test\\EstabelecimentoTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:02:33.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperMercadoTests.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\SuperMercadoTests.cs",
+              "RelativeDocumentMoniker": "FichaPratica7.Test\\SuperMercadoTests.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7.Test\\SuperMercadoTests.cs",
+              "RelativeToolTip": "FichaPratica7.Test\\SuperMercadoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:03:06.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HiperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\HiperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\HiperMercado.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\HiperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\HiperMercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:48:21.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServicoLoteria.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoLoteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:52:21.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Cafe.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Cafe.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Cafe.cs",
+              "RelativeToolTip": "FichaPratica7\\Cafe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:59:44.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISuperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\ISuperMercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:52:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServicoCafetaria.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoCafetaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Program.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\Program.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\Program.cs",
+              "RelativeToolTip": "FichaPratica7\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:42:10.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\SuperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\SuperMercado.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\SuperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\SuperMercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:00:57.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServicoBombaGasolina.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IServicoBombaGasolina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHiperMercado.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IHiperMercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEstabelecimento.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\IEstabelecimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:43:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICafe.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\ICafe.cs",
+              "RelativeDocumentMoniker": "FichaPratica7\\interfaces\\ICafe.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\FichaPratica8_3\\FichaPratica7\\interfaces\\ICafe.cs",
+              "RelativeToolTip": "FichaPratica7\\interfaces\\ICafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:53:03.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

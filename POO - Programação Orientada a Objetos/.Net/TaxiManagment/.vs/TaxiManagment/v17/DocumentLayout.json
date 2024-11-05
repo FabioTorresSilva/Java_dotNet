@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\taximanagment\\taximanagment\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|solutionrelative:taximanagment\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\taximanagment\\taximanagment\\ioperatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|solutionrelative:taximanagment\\ioperatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\taximanagment\\taximanagment\\idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|solutionrelative:taximanagment\\idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\taximanagment\\taximanagment\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|solutionrelative:taximanagment\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|c:\\users\\silva\\onedrive\\ambiente de trabalho\\upskill\\java_dotnet\\poo - programa\u00E7\u00E3o orientada a objetos\\.net\\taximanagment\\taximanagment\\taximanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D82AFFF-EB0E-47B9-AC50-9A850FB60F1E}|TaxiManagment\\TaxiManagment.csproj|solutionrelative:taximanagment\\taximanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\Engine.cs",
+              "RelativeDocumentMoniker": "TaxiManagment\\Engine.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\Engine.cs",
+              "RelativeToolTip": "TaxiManagment\\Engine.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:26:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOperatable.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\IOperatable.cs",
+              "RelativeDocumentMoniker": "TaxiManagment\\IOperatable.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\IOperatable.cs",
+              "RelativeToolTip": "TaxiManagment\\IOperatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:26:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDisplayable.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\IDisplayable.cs",
+              "RelativeDocumentMoniker": "TaxiManagment\\IDisplayable.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\IDisplayable.cs",
+              "RelativeToolTip": "TaxiManagment\\IDisplayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:26:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\Vehicle.cs",
+              "RelativeDocumentMoniker": "TaxiManagment\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\Vehicle.cs",
+              "RelativeToolTip": "TaxiManagment\\Vehicle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:24:34.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxiManagment",
+              "DocumentMoniker": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\TaxiManagment.csproj",
+              "RelativeDocumentMoniker": "TaxiManagment\\TaxiManagment.csproj",
+              "ToolTip": "C:\\Users\\silva\\OneDrive\\Ambiente de Trabalho\\UPSKILL\\Java_dotNet\\POO - Programa\u00E7\u00E3o Orientada a Objetos\\.Net\\TaxiManagment\\TaxiManagment\\TaxiManagment.csproj",
+              "RelativeToolTip": "TaxiManagment\\TaxiManagment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T12:23:47.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/bin/Debug/net8.0/TaxiManagment
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/bin/Debug/net8.0/TaxiManagment.deps.json
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/bin/Debug/net8.0/TaxiManagment.runtimeconfig.json
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/bin/Debug/net8.0/TaxiManagment.dll
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/bin/Debug/net8.0/TaxiManagment.pdb
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.AssemblyInfoInputs.cache
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.AssemblyInfo.cs
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.csproj.CoreCompileInputs.cache
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.sourcelink.json
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.dll
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/refint/TaxiManagment.dll
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.pdb
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/TaxiManagment.genruntimeconfig.cache
+/Users/brunooliveira/Documents/repos/Upskill/2024/semana_4/1/TaxiManagment/TaxiManagment/obj/Debug/net8.0/ref/TaxiManagment.dll
