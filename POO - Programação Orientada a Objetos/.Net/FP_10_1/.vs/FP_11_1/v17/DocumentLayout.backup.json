@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\nivelavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\nivelavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|c:\\users\\oscar\\source\\repos\\fp_11_1\\fp_11_1\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBB6705-450B-456B-B811-9ED67BDA1D2F}|FP_11_1\\FP_11_1.csproj|solutionrelative:fp_11_1\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Servico.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Servico.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Servico.cs",
+              "RelativeToolTip": "FP_11_1\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:31:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NivelAvaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\NivelAvaliacao.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\NivelAvaliacao.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\NivelAvaliacao.cs",
+              "RelativeToolTip": "FP_11_1\\NivelAvaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:31:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Produto.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Produto.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Produto.cs",
+              "RelativeToolTip": "FP_11_1\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:19:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Categoria.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Categoria.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Categoria.cs",
+              "RelativeToolTip": "FP_11_1\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:15:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encomenda.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Encomenda.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Encomenda.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Encomenda.cs",
+              "RelativeToolTip": "FP_11_1\\Encomenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:01:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Estado.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Estado.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Estado.cs",
+              "RelativeToolTip": "FP_11_1\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:01:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Program.cs",
+              "RelativeDocumentMoniker": "FP_11_1\\Program.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\FP_11_1\\FP_11_1\\Program.cs",
+              "RelativeToolTip": "FP_11_1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:00:40.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\bin\Debug\net8.0\FP_11_1.exe
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\bin\Debug\net8.0\FP_11_1.deps.json
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\bin\Debug\net8.0\FP_11_1.runtimeconfig.json
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\bin\Debug\net8.0\FP_11_1.dll
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\bin\Debug\net8.0\FP_11_1.pdb
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.AssemblyInfo.cs
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.dll
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\refint\FP_11_1.dll
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.pdb
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\FP_11_1.genruntimeconfig.cache
+C:\Users\oscar\source\repos\FP_11_1\FP_11_1\obj\Debug\net8.0\ref\FP_11_1.dll
