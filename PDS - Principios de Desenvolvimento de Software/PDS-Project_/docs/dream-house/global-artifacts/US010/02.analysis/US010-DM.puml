@@ -1,0 +1,21 @@
+@startuml
+skinparam monochrome true
+skinparam packageStyle rectangle
+skinparam shadowing true
+skinparam classAttributeIconSize 0
+
+hide circle
+hide methods
+left to right direction
+title Domain Model
+
+
+class Store {
+   code
+   designation
+   adress
+   opening time
+   closing time
+}
+
+@enduml

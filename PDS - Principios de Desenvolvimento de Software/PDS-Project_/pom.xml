@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>pt.org.upskill</groupId>
+    <artifactId>pds-project</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <!-- Java Version Configuration -->
+        <java.version>11</java.version>
+
+        <!-- Maven Version Configuration -->
+        <maven-compiler-plugin>3.13.0</maven-compiler-plugin>
+
+        <!-- Project Encoding Configuration -->
+        <project.sourceEncoding>UTF-8</project.sourceEncoding>
+        <project.build.sourceEncoding>${project.sourceEncoding}</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>${project.sourceEncoding}</project.reporting.outputEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>pt.isep.lei.esoft</groupId>
+            <artifactId>AuthLib</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>repsy</id>
+            <name>lei-soft</name>
+            <url>https://repo.repsy.io/mvn/pmaio/lei-soft</url>
+        </repository>
+    </repositories>
+    <build>
+        <plugins>
+            <!-- Required for compiling the project usign maven -->
+            <plugin><!-- Compiler configuration-->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>${maven-compiler-plugin}</version>
+                <configuration>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
+                    <showWarnings>true</showWarnings>   <!-- Needs this -->
+                    <compilerArgs>
+                        <arg>-Xlint:all</arg>   <!-- recommended -->
+                    </compilerArgs>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

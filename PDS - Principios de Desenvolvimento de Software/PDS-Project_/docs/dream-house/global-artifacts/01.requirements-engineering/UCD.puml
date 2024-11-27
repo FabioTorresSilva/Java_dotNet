@@ -1,0 +1,46 @@
+@startuml
+'skinparam monochrome true
+skinparam packageStyle rectangle
+'skinparam shadowing false
+
+skinparam rectangle{
+    BorderColor yellow
+}
+
+left to right direction
+
+rectangle "System Actors" as actors {
+    actor Network_Manager
+    actor UnregisteredUser
+    actor Client
+    actor Agent
+}
+
+rectangle "Use Cases" as usecases{
+    usecase "US10 - Register new Store." as US10
+    Network_Manager --> US10
+    usecase "US11 - Register a new agent." as US11
+    Network_Manager --> US11
+    usecase "US12 - List all Agents." as US12
+    Network_Manager --> US12
+    usecase "US13 - List all deals Made." as US13
+    Network_Manager --> US13
+    usecase "US20 - List all Available properties" as US20
+    UnregisteredUser --> US20
+    usecase "US21 - Register new client" as US21
+    UnregisteredUser --> US21
+    usecase "US30 - List properties for sale/rent" as US30
+    Client --> US30
+    usecase "US31 - Request a visit booking" as US31
+    Client --> US31
+    usecase "US32 -  place an order to property purchase/lease." as US32
+    Client --> US32
+    usecase "US40 - publish a sale or rent advertisement" as US40
+    Agent --> US40
+    usecase "US41 - reply to a visit booking request." as US41
+    Agent --> US41
+    usecase "US42 - evaluate a property purchase/lease order." as US42
+    Agent --> US42
+}
+
+@enduml
