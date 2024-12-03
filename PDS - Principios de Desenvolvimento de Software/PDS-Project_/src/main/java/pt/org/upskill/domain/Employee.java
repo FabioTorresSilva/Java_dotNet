@@ -33,11 +33,6 @@ public class Employee {
         return this.email.equals(email);
     }
 
-    /**
-     * Clone method.
-     *
-     * @return A clone of the current instance.
-     */
     public Employee clone() {
         return new Employee(this.email);
     }

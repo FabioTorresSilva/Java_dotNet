@@ -11,11 +11,12 @@ public class Repositories {
     private final OrganizationRepository organizationRepository;
     private final TaskCategoryRepository taskCategoryRepository;
     private final AuthenticationRepository authenticationRepository;
-
+    private final StoreRepository storeRepository;
     /**
      * The Singleton's constructor should always be private to prevent direct construction calls with the new operator.
      */
     private Repositories() {
+        storeRepository = new StoreRepository();
         organizationRepository = new OrganizationRepository();
         taskCategoryRepository = new TaskCategoryRepository();
         authenticationRepository = new AuthenticationRepository();
@@ -34,7 +35,9 @@ public class Repositories {
         }
         return instance;
     }
-
+    public StoreRepository getStoreRepository(){
+        return storeRepository;
+    }
     public OrganizationRepository getOrganizationRepository() {
         return organizationRepository;
     }

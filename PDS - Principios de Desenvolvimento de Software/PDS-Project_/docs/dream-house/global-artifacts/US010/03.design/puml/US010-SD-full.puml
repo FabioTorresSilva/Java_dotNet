@@ -1,0 +1,84 @@
+                                                          @startuml
+skinparam monochrome true
+skinparam packageStyle rectangle
+skinparam shadowing false
+
+autonumber
+
+'hide footbox
+actor "Network Administrator" as ADM
+participant ":CreateStoreUI" as UI
+participant ":CreateStoreController" as CTRL
+participant "Repositories" as RepositorySingleton
+participant "repositories\n:Repositories" as PLAT
+participant "StoreRepository:\nStoreRepository" as storeRepository
+participant "Store\n:Store" as store
+
+activate ADM
+
+        ADM -> UI : asks to create a new store
+
+        activate UI
+
+'            UI --> ADM : requests data (reference, description,  informal \n description, technical description, duration, cost)
+            'create CTRL
+            UI -> CTRL** : create
+
+
+
+        UI --> ADM : requests data
+    deactivate UI
+
+    ADM -> UI : types requested data (Codigo,\nHoraAbertura,\nHoraEncerramento)
+    activate UI
+
+
+    activate UI
+
+        UI -> CTRL : createStore(Codigo,\nHoraAbertura,\nHoraEncerramento)
+        activate CTRL
+
+
+        CTRL -> RepositorySingleton : getInstance()
+        activate RepositorySingleton
+
+        RepositorySingleton -> CTRL : repositories
+        deactivate RepositorySingleton
+
+
+
+        CTRL -> PLAT : getStoreRepositories()
+        activate PLAT
+
+        PLAT -> CTRL : StoreRepository
+        deactivate PLAT
+
+            |||
+            CTRL -> storeRepository: createStore(Codigo,\nHoraAbertura,\nHoraEncerramento)
+            activate storeRepository
+
+                storeRepository -> store**: create(Codigo,\nHoraAbertura,\nHoraEncerramento)
+                storeRepository -> storeRepository: addStore (Store)
+
+
+                activate storeRepository
+                    storeRepository -> storeRepository: validateStore(Store)
+                    activate storeRepository
+                        storeRepository --> storeRepository
+                    deactivate storeRepository
+
+                    storeRepository --> storeRepository
+                deactivate storeRepository
+
+                storeRepository --> CTRL : store
+
+            deactivate storeRepository
+
+            CTRL --> UI: store
+            deactivate CTRL
+            UI --> ADM: displays operation success
+    deactivate UI
+
+deactivate ADM
+
+@enduml

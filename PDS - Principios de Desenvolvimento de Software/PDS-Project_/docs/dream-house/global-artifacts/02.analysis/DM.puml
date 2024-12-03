@@ -24,9 +24,8 @@ class Store {
   code
   name
   address
-  openingHours
-  closingHours
-  revenue
+  openingHour
+  closingHour
 }
 
 class Agent {

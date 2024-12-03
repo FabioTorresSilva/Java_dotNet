@@ -97,7 +97,6 @@ public class Utils {
 
             System.out.println("  " + index + " - " + o.toString());
         }
-        //System.out.println();
         System.out.println("  0 - Cancel");
     }
 
