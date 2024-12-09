@@ -7,14 +7,15 @@ public class Store {
     private String storeCode;
     private String openingTime;
     private String closingTime;
+    private String designation;
+    private String address;
 
-
-    private Employee employee;
-
-    public Store(String openingTime, String closingTime) {
+    public Store(String openingTime, String closingTime, String designation, String address) {
         this.storeCode = generateStoreCode();
         this.openingTime = openingTime;
         this.closingTime = closingTime;
+        this.designation= designation;
+        this.address= address;
     }
 
     private String generateStoreCode() {
@@ -25,10 +26,16 @@ public class Store {
     }
 
     public String getCode() {
-        return storeCode; // Get the store's name
+        return storeCode;
+    }
+    public String getDesignation(){
+        return designation;
+    }
+    public String getAddress(){
+        return address;
     }
 
     public Store clone() {
-        return new Store(this.openingTime, this.closingTime);
+        return new Store(this.openingTime, this.closingTime, this.designation, this.address);
     }
 }

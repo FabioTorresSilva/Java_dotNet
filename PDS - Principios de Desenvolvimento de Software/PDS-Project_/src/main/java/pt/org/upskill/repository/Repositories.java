@@ -8,10 +8,12 @@ package pt.org.upskill.repository;
  */
 public class Repositories {
     private static Repositories instance;
+    private final StoreRepository storeRepository;
     private final OrganizationRepository organizationRepository;
     private final TaskCategoryRepository taskCategoryRepository;
     private final AuthenticationRepository authenticationRepository;
-    private final StoreRepository storeRepository;
+    private final AgentRepository agentRepository;
+
     /**
      * The Singleton's constructor should always be private to prevent direct construction calls with the new operator.
      */
@@ -20,6 +22,7 @@ public class Repositories {
         organizationRepository = new OrganizationRepository();
         taskCategoryRepository = new TaskCategoryRepository();
         authenticationRepository = new AuthenticationRepository();
+        agentRepository = new AgentRepository();
     }
 
     /**
@@ -30,14 +33,21 @@ public class Repositories {
     public static Repositories getInstance() {
         if (instance == null) {
             synchronized (Repositories.class) {
-                instance = new Repositories();
+                if (instance == null) { // Double-checked locking
+                    instance = new Repositories();
+                }
             }
         }
         return instance;
     }
-    public StoreRepository getStoreRepository(){
+
+    public StoreRepository getStoreRepository() {
         return storeRepository;
     }
+    public AgentRepository getAgentRepository() {
+        return agentRepository;
+    }
+
     public OrganizationRepository getOrganizationRepository() {
         return organizationRepository;
     }

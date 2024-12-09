@@ -39,16 +39,16 @@ public class Organization {
         return null;
     }
 
-    public Store createStore(String openingTime, String closingTime) {
-        Store store = new Store(openingTime, closingTime);
+    public Store createStore(String openingTime, String closingTime, String designation, String address) {
+        Store store = new Store(openingTime, closingTime, designation, address);
         if (addStore(store)) {
             return store;
         }
         return null;
     }
 
-    public Employee createEmployee(String email) {
-        Employee employee = new Employee(email);
+    public Employee createEmployee(String email,String name, int phone, String position) {
+        Employee employee = new Employee(email,name, phone, position);
         if (addEmployee(employee)) {
             return employee;
         }
@@ -58,7 +58,6 @@ public class Organization {
     private boolean addTask(Task task) {
         boolean success = false;
         if (validate(task)) {
-            // A clone of the task is added to the list of tasks, to avoid side effects and outside manipulation.
             success = tasks.add(task.clone());
         }
         return success;
@@ -115,13 +114,16 @@ public class Organization {
         return Objects.hash(vatNumber);
     }
 
-    //add employee to organization
     public boolean addEmployee(Employee employee) {
         boolean success = false;
         if (validateEmployee(employee)) {
             success = employees.add(employee);
         }
         return success;
+    }
+
+    public List<Employee> getAllEmployees() {
+        return employees;
     }
 
     private boolean validateEmployee(Employee employee) {
@@ -143,7 +145,6 @@ public class Organization {
             clone.employees.add(in.clone());
         }
 
-
         for (Task in : this.tasks) {
             clone.tasks.add(in.clone());
         }
@@ -151,7 +152,6 @@ public class Organization {
         for (Store in : this.stores) {
             clone.stores.add(in.clone());
         }
-
         return clone;
     }
 }

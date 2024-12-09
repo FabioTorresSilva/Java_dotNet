@@ -1,5 +1,6 @@
 package pt.org.upskill.ui.console;
 
+import pt.org.upskill.DTO.StoreDTO;
 import pt.org.upskill.controller.CreateStoreController;
 import pt.org.upskill.controller.CreateTaskController;
 import pt.org.upskill.domain.Store;
@@ -12,6 +13,8 @@ public class CreateStoreUI implements Runnable {
     private final CreateStoreController controller;
     private String openingTime;
     private String closingTime;
+    private String designation;
+    private String address;
 
 
     public CreateStoreUI() {
@@ -29,7 +32,7 @@ public class CreateStoreUI implements Runnable {
     }
 
     private void submitData() {
-        Store store = getController().createStore(openingTime,closingTime);
+        StoreDTO store = getController().createStore(openingTime,closingTime, designation, address);
 
         if (store != null) {
             System.out.println("\nStore successfully created!");

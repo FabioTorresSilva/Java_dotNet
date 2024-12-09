@@ -1,22 +1,24 @@
 package pt.org.upskill.controller;
 
+import pt.org.upskill.DTO.AgentDTO;
+import pt.org.upskill.DTO.StoreDTO;
+import pt.org.upskill.Mapper.AgentMapper;
+import pt.org.upskill.Mapper.StoreMapper;
 import pt.org.upskill.domain.*;
 import pt.org.upskill.repository.*;
 import pt.isep.lei.esoft.auth.domain.model.Email;
 
-import java.util.List;
-
-public class CreateEmployeeController {
+public class CreateAgentController {
     private StoreRepository storeRepository;
     private OrganizationRepository organizationRepository;
     private AuthenticationRepository authenticationRepository;
 
-    public CreateEmployeeController() {
+    public CreateAgentController() {
         getStoreRepository();
         getAuthenticationRepository();
     }
 
-    public CreateEmployeeController(StoreRepository storeRepository, AuthenticationRepository authenticationRepository) {
+    public CreateAgentController(StoreRepository storeRepository, AuthenticationRepository authenticationRepository) {
         this.storeRepository = storeRepository;
         this.authenticationRepository = authenticationRepository;
     }
@@ -28,7 +30,6 @@ public class CreateEmployeeController {
         }
         System.out.println(storeRepository);
         return storeRepository;
-
     }
 
     private OrganizationRepository getOrganizationRepository() {
@@ -47,16 +48,19 @@ public class CreateEmployeeController {
         return authenticationRepository;
     }
 
-    public Employee createEmployee(String email) {
+    public AgentDTO createEmployee(String email, String name, int phone, String position) {
         Employee employee = getEmployeeFromSession();
         Organization organization = getOrganizationRepository().getOrganizationByEmployee(employee);
 
         if (organization != null) {
-            Employee newEmployee = organization.createEmployee(email);
-            return newEmployee;
+            Employee newEmployee = organization.createEmployee(email, name, phone, position);
+            organization.addEmployee(newEmployee);
+
+            return AgentMapper.toDTO(newEmployee);
         }
         return null;
     }
+
 
     private Employee getEmployeeFromSession() {
         Email email = getAuthenticationRepository().getCurrentUserSession().getUserId();

@@ -16,14 +16,12 @@ public class CreateTaskController {
     private TaskCategoryRepository taskCategoryRepository;
     private AuthenticationRepository authenticationRepository;
 
-    //Repository instances are obtained from the Repositories class
     public CreateTaskController() {
         getOrganizationRepository();
         getTaskCategoryRepository();
         getAuthenticationRepository();
     }
 
-    //Allows receiving the repositories as parameters for testing purposes
     public CreateTaskController(OrganizationRepository organizationRepository,
                                 TaskCategoryRepository taskCategoryRepository,
                                 AuthenticationRepository authenticationRepository) {
@@ -35,8 +33,6 @@ public class CreateTaskController {
     private TaskCategoryRepository getTaskCategoryRepository() {
         if (taskCategoryRepository == null) {
             Repositories repositories = Repositories.getInstance();
-
-            //Get the TaskCategoryRepository
             taskCategoryRepository = repositories.getTaskCategoryRepository();
         }
         return taskCategoryRepository;
@@ -54,8 +50,6 @@ public class CreateTaskController {
     private AuthenticationRepository getAuthenticationRepository() {
         if (authenticationRepository == null) {
             Repositories repositories = Repositories.getInstance();
-
-            //Get the AuthenticationRepository
             authenticationRepository = repositories.getAuthenticationRepository();
         }
         return authenticationRepository;

@@ -10,15 +10,10 @@ import pt.org.upskill.domain.Store;
 import java.util.List;
 import java.util.Scanner;
 
-public class CreateEmployeeUI implements Runnable {
-    private final CreateAgentController controller;
-    private String email;
-    private StoreDTO selectedStore;
-    private String name;
-    private int phone;
-    private String position;
+public class CreateAccountUI implements Runnable {
 
-    public CreateEmployeeUI() {
+
+    public CreateAccountUI() {
         controller = new CreateAgentController();
     }
 
@@ -27,8 +22,7 @@ public class CreateEmployeeUI implements Runnable {
     }
 
     public void run() {
-        System.out.println("\n\n--- Create Employee ------------------------");
-
+        System.out.println("\n\n--- Create Account ------------------------");
 
         selectedStore = displayAndSelectStore();
         if (selectedStore != null) {
@@ -97,7 +91,6 @@ public class CreateEmployeeUI implements Runnable {
                     store.getAddress() != null ? store.getAddress() : "N/A");
         }
 
-        // Prompt user to select a store
         Scanner input = new Scanner(System.in);
         int answer = -1;
 

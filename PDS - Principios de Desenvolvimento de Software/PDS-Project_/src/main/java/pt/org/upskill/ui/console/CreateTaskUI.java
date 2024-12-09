@@ -6,9 +6,6 @@ import pt.org.upskill.domain.TaskCategory;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Create Task UI (console). This option is only available for administrators for demonstration purposes.
- */
 public class CreateTaskUI implements Runnable {
     private final CreateTaskController controller;
     private String taskReference;

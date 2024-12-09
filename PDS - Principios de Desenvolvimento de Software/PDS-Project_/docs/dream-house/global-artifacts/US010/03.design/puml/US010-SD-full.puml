@@ -1,4 +1,4 @@
-                                                          @startuml
+@startuml
 skinparam monochrome true
 skinparam packageStyle rectangle
 skinparam shadowing false
@@ -9,6 +9,7 @@ autonumber
 actor "Network Administrator" as ADM
 participant ":CreateStoreUI" as UI
 participant ":CreateStoreController" as CTRL
+participant "storeMapper"
 participant "Repositories" as RepositorySingleton
 participant "repositories\n:Repositories" as PLAT
 participant "StoreRepository:\nStoreRepository" as storeRepository
@@ -53,6 +54,13 @@ activate ADM
         PLAT -> CTRL : StoreRepository
         deactivate PLAT
 
+
+
+
+
+
+
+
             |||
             CTRL -> storeRepository: createStore(Codigo,\nHoraAbertura,\nHoraEncerramento)
             activate storeRepository
@@ -60,21 +68,32 @@ activate ADM
                 storeRepository -> store**: create(Codigo,\nHoraAbertura,\nHoraEncerramento)
                 storeRepository -> storeRepository: addStore (Store)
 
+                storeRepository -> storeRepository: validateStore(Store)
 
-                activate storeRepository
-                    storeRepository -> storeRepository: validateStore(Store)
-                    activate storeRepository
-                        storeRepository --> storeRepository
-                    deactivate storeRepository
-
-                    storeRepository --> storeRepository
-                deactivate storeRepository
 
                 storeRepository --> CTRL : store
 
             deactivate storeRepository
 
-            CTRL --> UI: store
+            CTRL -> storeMapper : ToDTO(Store)
+
+            activate storeMapper
+
+                storeMapper -> PLAT : getStore()
+
+                activate PLAT
+
+                    PLAT --> storeMapper : StoreRepository
+
+                deactivate PLAT
+
+                storeMapper -> storeMapper : toDTO()
+
+                storeMapper --> CTRL : StoreDTO
+
+            deactivate storeMapper
+
+            CTRL --> UI: StoreDTO
             deactivate CTRL
             UI --> ADM: displays operation success
     deactivate UI

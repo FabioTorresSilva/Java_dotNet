@@ -3,24 +3,25 @@ package pt.org.upskill;
 import pt.org.upskill.controller.AuthenticationController;
 import pt.org.upskill.domain.Employee;
 import pt.org.upskill.domain.Organization;
+import pt.org.upskill.domain.Store;
 import pt.org.upskill.domain.TaskCategory;
 import pt.org.upskill.repository.AuthenticationRepository;
 import pt.org.upskill.repository.OrganizationRepository;
 import pt.org.upskill.repository.Repositories;
+import pt.org.upskill.repository.StoreRepository;
 import pt.org.upskill.repository.TaskCategoryRepository;
 
 public class Bootstrap implements Runnable {
 
-    //Add some task categories to the repository as bootstrap
+    @Override
     public void run() {
         addTaskCategories();
         addOrganization();
+        addStores();
         addUsers();
     }
 
     private void addOrganization() {
-        //TODO: add bootstrap organizations here
-        //get organization repository
         OrganizationRepository organizationRepository = Repositories.getInstance().getOrganizationRepository();
 
         Organization organization = new Organization("This Company");
@@ -30,8 +31,6 @@ public class Bootstrap implements Runnable {
     }
 
     private void addTaskCategories() {
-        //TODO: add bootstrap Task Categories here
-        //get task category repository
         TaskCategoryRepository taskCategoryRepository = Repositories.getInstance().getTaskCategoryRepository();
 
         taskCategoryRepository.add(new TaskCategory("Requirements"));
@@ -43,9 +42,21 @@ public class Bootstrap implements Runnable {
         taskCategoryRepository.add(new TaskCategory("Maintenance"));
     }
 
+    private void addStores() {
+        StoreRepository storeRepository = Repositories.getInstance().getStoreRepository();
+
+        Store store1 = new Store("12","123", "Store001", "Downtown Store");
+        Store store2 = new Store("132","1323", "Store0031", "Downtown S3tore");
+
+        storeRepository.addStore(store1);
+        storeRepository.addStore(store2);
+
+        System.out.println("Stores added: ");
+        System.out.println(store1);
+        System.out.println(store2);
+    }
+
     private void addUsers() {
-        //TODO: add Authentication users here: should be created for each user in the organization
-        //get authentication repository
         AuthenticationRepository authenticationRepository = Repositories.getInstance().getAuthenticationRepository();
 
         authenticationRepository.addUserRole(AuthenticationController.ROLE_ADMIN, AuthenticationController.ROLE_ADMIN);

@@ -1,0 +1,38 @@
+@startuml
+skinparam monochrome true
+skinparam packageStyle rectangle
+skinparam shadowing false
+
+title System Sequence Diagram (SSD)
+
+autonumber
+
+actor "Store Manager" as Employee
+participant ":System" as System
+
+activate Employee
+
+    Employee -> System : asks to create a new agent
+    activate System
+
+        System --> Employee : shows available stores agent can be assigned to
+    deactivate System
+
+    Employee -> System : selects a store
+    activate System
+
+    System --> Employee : requests Agent data (...)
+    deactivate System
+
+    Employee -> System : types requested data
+    activate System
+
+        System --> Employee : creates Agent and shows all data and requests confirmation
+    deactivate System
+
+    Employee -> System : confirms data
+    activate System
+
+        System --> Employee : displays operation success
+    deactivate System
+@enduml

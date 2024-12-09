@@ -1,9 +1,6 @@
 package pt.org.upskill.ui.console.menu;
 
-import pt.org.upskill.ui.console.CreateEmployeeUI;
-import pt.org.upskill.ui.console.CreateStoreUI;
-import pt.org.upskill.ui.console.CreateTaskUI;
-import pt.org.upskill.ui.console.ShowTextUI;
+import pt.org.upskill.ui.console.*;
 import pt.org.upskill.ui.console.utils.Utils;
 import java.util.ArrayList;
 import java.util.List;
@@ -17,7 +14,7 @@ public class AdminMenu implements Runnable {
         options.add(new MenuItem("Create Task", new CreateTaskUI()));
         options.add(new MenuItem("Create Store", new CreateStoreUI()));
         options.add(new MenuItem("Create Employee", new CreateEmployeeUI()));
-        options.add(new MenuItem("Option 4", new ShowTextUI("You have chosen Option 4.")));
+        options.add(new MenuItem("List all Agents", new ListAgentsUI()));
 
         int option = 0;
         do {
