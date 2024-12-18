@@ -9,10 +9,8 @@ public class StoreRepository {
     private static StoreRepository instance; // Singleton instance
     private final List<Store> storeList = new ArrayList<>(); // Simulating an in-memory database
 
-    // Private constructor to prevent direct instantiation
     public StoreRepository() {}
 
-    // Public method to get the singleton instance
     public static StoreRepository getInstance() {
         if (instance == null) {
             instance = new StoreRepository();
@@ -20,7 +18,6 @@ public class StoreRepository {
         return instance;
     }
 
-    // Add a new Store
     public boolean addStore(Store store) {
         if (store == null) {
             return false;
@@ -39,7 +36,7 @@ public class StoreRepository {
                 return true;
             }
         }
-        return false; // Store not found
+        return false;
     }
 
     public Store findByCode(String code) {

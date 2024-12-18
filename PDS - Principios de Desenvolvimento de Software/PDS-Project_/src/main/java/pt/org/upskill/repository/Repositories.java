@@ -1,11 +1,5 @@
 package pt.org.upskill.repository;
 
-/**
- * Inspired on https://refactoring.guru/design-patterns/singleton/java/example
- *
- * The Repositories class works as a Singleton. It defines the getInstance method that serves as an alternative
- * to the constructor and lets client classes access the same instance of this class over and over.
- */
 public class Repositories {
     private static Repositories instance;
     private final StoreRepository storeRepository;
@@ -14,9 +8,7 @@ public class Repositories {
     private final AuthenticationRepository authenticationRepository;
     private final AgentRepository agentRepository;
 
-    /**
-     * The Singleton's constructor should always be private to prevent direct construction calls with the new operator.
-     */
+
     private Repositories() {
         storeRepository = new StoreRepository();
         organizationRepository = new OrganizationRepository();
@@ -25,11 +17,6 @@ public class Repositories {
         agentRepository = new AgentRepository();
     }
 
-    /**
-     * This is the static method that controls the access to the singleton instance.
-     * On the first run, it creates a singleton object and places it into the static attribute.
-     * On subsequent runs, it returns the existing object stored in the static attribute.
-     */
     public static Repositories getInstance() {
         if (instance == null) {
             synchronized (Repositories.class) {

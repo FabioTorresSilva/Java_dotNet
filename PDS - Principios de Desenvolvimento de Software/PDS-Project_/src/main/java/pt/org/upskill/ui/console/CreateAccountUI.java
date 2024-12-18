@@ -107,7 +107,7 @@ public class CreateAccountUI implements Runnable {
             }
         }
 
-        return stores.get(answer - 1); // Return the selected StoreDTO object
+        return stores.get(answer - 1);
     }
 
 }

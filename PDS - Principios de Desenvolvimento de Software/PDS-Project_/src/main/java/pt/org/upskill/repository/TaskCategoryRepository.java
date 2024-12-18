@@ -10,13 +10,6 @@ public class TaskCategoryRepository {
         taskCategories = new ArrayList<>();
     }
 
-    /**
-     * This method returns an exsiting Task Category by its description.
-     *
-     * @param taskCategoryDescription The description of the task category to be created.
-     * @return The task category.
-     * @throws IllegalArgumentException if the task category does not exist, which should never happen.
-     */
     public TaskCategory getTaskCategoryByDescription(String taskCategoryDescription) {
         TaskCategory newTaskCategory = new TaskCategory(taskCategoryDescription);
         TaskCategory taskCategory = null;
@@ -47,13 +40,7 @@ public class TaskCategoryRepository {
         return isValid;
     }
 
-    /**
-     * This method returns a defensive (immutable) copy of the list of task categories.
-     *
-     * @return The list of task categories.
-     */
     public List<TaskCategory> getTaskCategories() {
-        //This is a defensive copy, so that the repository cannot be modified from the outside.
         return List.copyOf(taskCategories);
     }
 }
