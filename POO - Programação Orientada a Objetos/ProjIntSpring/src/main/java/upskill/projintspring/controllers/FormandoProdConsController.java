@@ -42,6 +42,4 @@ public class FormandoProdConsController {
         }
         return new ResponseEntity<>(todosProdutos, HttpStatus.OK);
     }
-
-
 }
