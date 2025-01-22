@@ -1,6 +1,4 @@
-package upskill.projintspring.dto;
-
-import lombok.Setter;
+package upskill.projintspring.model.dto;
 
 import java.util.Objects;
 
